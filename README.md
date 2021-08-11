@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyperGT
 - 👀 I’m interested in ... game development
-- 🌱 I’m currently learning ... programming
+- 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... RJ
 
