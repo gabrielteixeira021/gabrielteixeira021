@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyperGT
-- 👀 I’m interested in ... Game development
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... Game Development, Full-Stack Development
+- 🌱 I’m currently learning ... Java, C#
 - 💞️ I’m looking to collaborate on ... Everything
 - 📫 How to reach me ... 21 966462979
 
