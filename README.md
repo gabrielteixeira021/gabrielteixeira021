@@ -1,6 +1,6 @@
 # Gabriel Teixeira 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ECBF7&background=1B53FF00&center=true&vCenter=true&random=false&width=435&lines=Back-End+and+Games+developer+;1.5yr+of+coding+experience;The+best+problem+solver;Welcome+to+my+GitHub+Profile+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ECBF7&background=1B53FF00&center=true&vCenter=true&random=false&width=435&lines=Back-End+and+Games+developer;1.5yr+of+coding+experience;The+best+problem+solver;Welcome+to+my+GitHub+Profile+%3A))](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyperGT&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
