@@ -1,6 +1,6 @@
 # Gabriel Teixeira 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ECBF7&background=1B53FF00&center=true&vCenter=true&random=false&width=435&lines=Back-End+and+Games+developer;1.5yr+of+coding+experience;The+best+problem+solver;Welcome+to+my+GitHub+Profile+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ECBF7&background=1B53FF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile+%3A)" alt="Typing SVG" /></a>
 
 ## Languages
 
