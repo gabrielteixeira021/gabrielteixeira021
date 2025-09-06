@@ -15,6 +15,7 @@
 ## Frameworks / Engines
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 
 ## Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
