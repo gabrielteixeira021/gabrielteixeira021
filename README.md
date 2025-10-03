@@ -3,8 +3,6 @@ Acesse meu portfólio em:
 <a href="https://gitfollio.vercel.app/gabrielteixeira021"> 🔗
   https://gitfollio.vercel.app/gabrielteixeira021
 </a>
-
-<!-- GitFolio:start
 {
   "gitfolio": "on",
   "name": "Gabriel Teixeira Charles da Silva",
