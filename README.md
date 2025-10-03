@@ -1,95 +1,33 @@
+# Gabriel Teixeira
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ECBF7&background=1B53FF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile+%3A)" alt="Typing SVG" /></a>
 
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/gabrielteixeira021"> 🔗
-  https://gitfollio.vercel.app/gabrielteixeira021
-</a>
+# Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
-<!-- GitFolio:start
-{
-  "gitfolio": "on",
-  "name": "Gabriel Teixeira Charles da Silva",
-  "email": "gabriel.charles.ds@gmail.com",
-  "tagline": "Back-End and ML Developer",
-  "avatar_url": "https://avatars.githubusercontent.com/u/63520287?v=4",
-  "website": "",
-  "githubUser": "gabrielteixeira021",
-  "linkedinUser": "www.linkedin.com/in/gabriel-teixeira-28ab37386",
-  "about": "Tenho 20 anos e 4 anos de experiência codando (projetos pessoais e colaborativos), planejo ingressar futuramente na área de Inteligência artificial e integrar cada vez mais meus conhecimentos já sólidos em outras áreas da tecnologia como desenvolvimento de jogos e aplicações web. 
-Atualmente venho colocando um foco considerável nas minhas soft e hard skills, como comunicação em público para realizar apresentações de projetos aos quais faço parte e resolução de problemas respectivamente.",
-  "showStars": true,
-  "showFollowers": true,
-  "followers": 31,
-  "following": 34,
-  "themeId": "minimal",
-  "tech": [
-  "Java",
-  "Spring",
-  "Spring Boot",
-  "Maven",
-  "Gradle",
-  "Python",
-  "Javascript",
-  "FastAPI",
-  "Django"
-],
-  "projects": [
-  {
-    "id": 1056765469,
-    "repoName": "FitNutri-POA",
-    "url": "https://github.com/gabrielteixeira021/FitNutri-POA",
-    "stars": 1,
-    "description": "Um sistema inteligente de nutrição e fitness que utiliza IA para fornecer recomendações personalizadas de alimentação e saúde.",
-    "image": "https://cdn.discordapp.com/attachments/1241024730425725060/1423371028238962688/image.png?ex=68e16292&is=68e01112&hm=81eacd1191c52ef382d4a0d409432f7a370d6801c9894100cc7e2a2a00f31895&",
-    "techs": [
-      "Java"
-    ],
-    "deploy": "",
-    "highlighted": true
-  },
-  {
-    "id": 1051857925,
-    "repoName": "iris-api",
-    "url": "https://github.com/gabrielteixeira021/iris-api",
-    "stars": 2,
-    "description": "Este projeto é uma API simples, desenvolvida com FastAPI e Scikit-learn, que utiliza um modelo de machine learning para classificar a espécie da flor de íris. ",
-    "image": "",
-    "techs": [
-      "Python",
-      "Scikit-learn",
-      "FastAPI"
-    ],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 1051853076,
-    "repoName": "Iris-web",
-    "url": "https://github.com/gabrielteixeira021/Iris-web",
-    "stars": 2,
-    "description": "Este projeto basicamente consome uma API externa de ML (Modelo de Aprendizado de Máquina) em um aplicativo Java Back-end.",
-    "image": "",
-    "techs": [
-      "Java",
-      "Spring Boot"
-    ],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 1050803839,
-    "repoName": "AI-python-tutor",
-    "url": "https://github.com/gabrielteixeira021/AI-python-tutor",
-    "stars": 1,
-    "description": "Este aplicativo foi projetado para ajudar desenvolvedores iniciantes a aprender programação em Python por meio de conversas interativas, exemplos de código e explicações abrangentes.",
-    "image": "",
-    "techs": [
-      "Python",
-      "Streamlit"
-    ],
-    "deploy": "",
-    "highlighted": false
-  }
-]
-}
-GitFolio:end -->
-  
+# Frameworks / Engines
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+
+# API development
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+
+# Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+
+
+# Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ct/)&nbsp;
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:charlesgabriel102@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/hyperGT](https://github.com/gabrielteixeira021))&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5521966462979)&nbsp;
+
+by gtx
