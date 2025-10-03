@@ -4,6 +4,7 @@ Acesse meu portfólio em:
   https://gitfollio.vercel.app/gabrielteixeira021
 </a>
 
+<!-- GitFolio:start
 {
   "gitfolio": "on",
   "name": "Gabriel Teixeira Charles da Silva",
@@ -90,4 +91,5 @@ Atualmente venho colocando um foco considerável nas minhas soft e hard skills, 
   }
 ]
 }
+GitFolio:end -->
   
