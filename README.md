@@ -1,7 +1,7 @@
 # Gabriel Teixeira
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ECBF7&background=1B53FF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile+%3A)" alt="Typing SVG" /></a>
 
-https://roadmap.sh/card/wide/69234227467651eddbf2a737?variant=dark
+[![roadmap.sh](https://roadmap.sh/card/wide/69234227467651eddbf2a737?variant=dark)](https://roadmap.sh)
 
 # Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
